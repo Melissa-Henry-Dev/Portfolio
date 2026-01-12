@@ -6,13 +6,67 @@ function Projects() {
             </div>
             <div className="project-container">
                 <div className="project-one">
-                    <h2 className="project-title">Sustainability Dashboard</h2>
+                    <div className="project-left">
+                        <img src="" alt="Project Sustainability Dashboard" />
+                    </div>
+                    <div className="project-right">
+                        <h2 className="project-title">Sustainability Dashboard</h2>
+                        <p className="project-desc"></p>
+                        <div className="tech-stack">
+                            <ul>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <div className="project-links">
+                            <ul></ul>
+                        </div>
+                    </div>
                 </div>
                 <div className="project-two">
-                    <h2 className="project-title">Energy Usage API</h2>
+                    <div className="project-left">
+                        <img src="" alt="Project Energy Usage API" />
+                    </div>
+                    <div className="project-right">
+                        <h2 className="project-title">Energy Usage API</h2>
+                        <p className="project-desc"></p>
+                        <div className="tech-stack">
+                            <ul>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <div className="project-links">
+                            <ul></ul>
+                        </div>
+                    </div>
                 </div>
                 <div className="project-three">
-                    <h2 className="project-title">Personal Energy Tracker</h2>
+                    <div className="project-left">
+                        <img src="" alt="Project Image Energy Tracker" />
+                    </div>
+                    <div className="project-right">
+                        <h2 className="project-title">Personal Energy Tracker</h2>
+                        <p className="project-desc"></p>
+                        <div className="tech-stack">
+                            <ul>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <div className="project-links">
+                            <ul></ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

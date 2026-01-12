@@ -2,7 +2,7 @@ function About() {
     return (
         <section>
             <div className="section-title-sub">
-                <h2>Hoi, My name is Melissa</h2>
+                <h2>Hoi, My name is Melissa.</h2>
             </div>
             <div className="left-card">
                 <div className="profile-photo">
