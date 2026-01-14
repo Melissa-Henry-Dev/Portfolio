@@ -1,8 +1,8 @@
 function Credentials() {
     return (
-        <section>
-            
-        </section>
+        <>
+        
+        </>
     );
 }
 

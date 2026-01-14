@@ -1,16 +1,9 @@
-import './App.css'
-import About from './pages/About'
-import Projects from './pages/Projects'
-import Skills from './pages/Skills'
-import Credentials from "./pages/Credentials"
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
-    <About></About>
-    <Skills></Skills>
-    <Projects></Projects>
-    <Credentials></Credentials>
+    <Home />
     </>
   )
 }
