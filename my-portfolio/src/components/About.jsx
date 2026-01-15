@@ -1,25 +1,21 @@
 function About() {
     return (
         <>
-        <section id="about">
-            <div className="about-container">
-                <div className="about-text">
+        <section id="about" className="hero">
+            <div className="hero-container">
+                <div className="hero-text">
                     <h1>Melissa Henry</h1>
-                    <h2>Full-Stack Developer</h2>
-                    <p className="about-summary">
-                        Short summary sentence goes here.
+                    <h2>Junior Full-Stack Software Developer</h2>
+                    <p>
+                        Junior full-stack developer with experience in React and Python. I enjoy building clean, accessible applications and am particularly interested in sustainability driven projects.
                     </p>
-                    <div className="about-links">
-                        <a href="#">GitHub</a>
+                    <div className="hero-links">
                         <a href="#">LinkedIn</a>
-                    </div>
-                    <div className="about-context">
-                        <p>Context paragraph one.</p>
-                        <p>Context paragraph two.</p>
+                        <a href="#">GitHub</a>
                     </div>
                 </div>
-                <div className="about-image">
-                    <img src="" alt="Profile" />
+                <div className="hero-image">
+                    <img src="#" alt="Profile Melissa Henry" />
                 </div>
             </div>
         </section>
